@@ -25,7 +25,7 @@ h1 {
 }
 
 .principal {
-    background-image:url("/Aluraplus/assets/Background.png");
+    background-image:url("/assets/Background.png");
     background-size: 100%;
     background-repeat: no-repeat;
     align-items: center;
