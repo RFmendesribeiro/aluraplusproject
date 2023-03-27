@@ -2,14 +2,11 @@
 
 ## Ferramentas usadas:
 
-*HTNL
-*CSS
-*Flexbox
-*Grid
-*Figma
-
-### Nota: ainda não foi aplicado responsividade.
-
+* HTNL
+* CSS
+* Flexbox
+* Grid
+* Figma
 
 ## Desenvolvido por:
 
